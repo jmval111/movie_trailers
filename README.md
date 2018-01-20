@@ -1,16 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-<script type="text/javascript">
-//<![CDATA[
-window.__cfRocketOptions = {byc:0,p:0,petok:"b223b79dc4a385cba9ad990d804960c6dd5c2723-1516478179-1800"};
-//]]>
-</script>
-<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/b7ef205d/cloudflare-static/rocket.min.js"></script>
-</head>
-<body>
-<pre>Cannot GET /factory/fetch_markdown</pre>
-</body>
-</html>
+# Hello_man Movies 
+
+Welcome to our movie vault.  
+
+#### Downloading the remote repository: 
+https://github.com/jmval111/movie_trailer_website.git
+
+#### Requirements:
+* We recommend using [Firefox](https://www.mozilla.org/en-US/firefox/)
+* If you are having problems -- [Stack Overflow](http://stackoverflow.com/questions/tagged/factory-bot)
+
+
+#### Install
+You will need:
+* To work on files locally: [Git](https://git-scm.com/)
+* To work on files remotely: [GitHub](https://github.com)
+
+License
+-------
+
+Hello_man is Copyright © 2017 Hello_man. 
+
+About Hello_man
+----------------
+
+![Hello_man](https://github.com/jmval111/movie_trailer_website/blob/master/images/waving-stick-man.jpg)
+
+Hello_man is maintained and funded by Hello_man, inc.
+The names and logos for are trademarks of Hello_man, inc.
+
+
+See our other projects (coming soon)
+
