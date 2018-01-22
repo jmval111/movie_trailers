@@ -4,8 +4,7 @@ import media
 
 # Movie class instances
 joe_volcano = media.Movie("Joe Versus the Volcano",
-                          "A man quits his work life when he's
-                          misdiagnosed as dying.",
+                          "A man quits his work life when he's misdiagnosed as dying.",
                           "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyMjU2OTM5OV5BMl5BanBnXkFtZTYwMDMyMzA5._V1_.jpg",
                           "https://www.youtube.com/watch?v=A9lceeNQMwk")
 
