@@ -33,6 +33,7 @@ odyssey = media.Movie("2001: A Space Odyssey",
                           "https://www.youtube.com/watch?v=XHjIqQBsPjk")
 
 movies = [joe_volcano, akira, ghost_shell, powaqqatsi, koyaanisqatsi, odyssey]
+fresh_tomatoes.open_movies_page(movies)
 
 
 print media.Movie.__doc__
