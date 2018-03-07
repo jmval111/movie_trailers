@@ -7,7 +7,8 @@ joe_volcano = media.Movie("Joe Versus the Volcano",
                           "A man quits his work life when " +
                           "he's misdiagnosed as dying.",
                           "https://images-na.ssl-images-amazon.com" +
-                          "/images/M/MV5BMTMyMjU2OTM5OV5BMl5BanBnXkFtZTYwMDMyMzA5._V1_.jpg",
+                          "/images/M/MV5BMTMyMjU2OTM5OV5BMl5BanBnXk" +
+                          "FtZTYwMDMyMzA5._V1_.jpg",
                           "https://www.youtube.com/watch?v=A9lceeNQMwk")
 
 akira = media.Movie("Akira", "A gang leader must save Tokyo " +
